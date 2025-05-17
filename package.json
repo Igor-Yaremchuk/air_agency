@@ -30,6 +30,7 @@
     "stylelint": "^16.7.0",
     "stylelint-scss": "^6.4.1"
   },
+
   "browserslist": [
     "last 2 versions"
   ],
