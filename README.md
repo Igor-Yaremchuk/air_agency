@@ -27,6 +27,6 @@ Animations: Smooth transitions and hover effects.
 Contact Form: Field validation and data handling.
 
 ## To run the project locally you need Node.js v20+ and 3 steps:
-  git clone
-  npm i
-  npm start
+- git clone
+- npm i
+- npm start
